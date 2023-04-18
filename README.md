@@ -1,6 +1,8 @@
 # Arbitrage-free_smile-interpolator_local_volatility
 
-Data is usdjpy market quote delta on 16-Mar-2023, downloaded from Bloomberg. The details about the constraints of free arbitrage are stated in the jupyter notebook.
+Data is usdjpy market quote delta on 16-Mar-2023, downloaded from Bloomberg. 
+
+The details about the constraints of free arbitrage are stated in the jupyter notebook.
 
 Using market data to derive the strike price then interpolate the implied volatilty and local volatolity. 
 
